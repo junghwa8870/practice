@@ -1,0 +1,12 @@
+body {
+    background: aqua;
+  }
+  
+  h1 {
+    color: dodgerblue;
+  }
+  
+  p {
+    width: 600px;
+    line-height: 1.4;
+  }
